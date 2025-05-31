@@ -1,11 +1,11 @@
 # Video Game Sales Dashboard - Deployment Guide
 
-## Files You Need
+## Files
 
 1. **app.R** - The main Shiny application (code provided above)
 2. **vgsales.csv** - Your video game sales dataset
 
-## Step-by-Step Deployment to shinyapps.io
+## Deployment to shinyapps.io
 
 ### 1. Install Required Packages
 ```r
